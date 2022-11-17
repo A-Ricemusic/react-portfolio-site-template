@@ -8,13 +8,6 @@ import IMG1 from '../../../../assets/Assets/portfolio1.png'
 const data = [
   {
     id: 1,
-    image: null,
-    title: '',
-    link: '',
-    isLink: false
-  },
-  {
-    id: 2,
     image: IMG1,
     title: 'Projects',
     link: '/Projects',
@@ -23,7 +16,6 @@ const data = [
  
  
 ]
-
 
 const Portfolio = () => {
 

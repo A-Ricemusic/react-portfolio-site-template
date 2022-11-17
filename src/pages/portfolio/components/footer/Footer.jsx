@@ -5,7 +5,7 @@ import './footer.css'
 const Footer = () => {
   return (
     <footer>
-      <a href="#" className='footer__logo'>Anthony Rice</a>
+      <a href="#" className='footer__logo'>Your Name</a>
       <ul className='permalinks'>
         <li><a href="/">Home</a></li>
         <li><a href="#about">About</a></li>

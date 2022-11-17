@@ -1,17 +1,18 @@
 .nav {
-    background: linear-gradient(rgb(93, 95, 95),rgb(94, 94, 94),0.6);
+    background: linear-gradient(rgb(108, 255, 255),rgb(94, 94, 94),0.6);
     width: max-content;
     display: block;
     padding: 0.7rem,1.7rem;
     z-index: 2;
     position: fixed;
-    left: 50%;
+    left: 9%;
     transform: translateX(-50%);
     bottom: 2rem;
     display: flex;
+    flex-direction: column;
     gap: 0.8rem;
-    border-radius: 3rem;
-    backdrop-filter: blur(15px);
+    border-radius: 1rem;
+    backdrop-filter: blur(1rem);
 }
 
 .nav a {
@@ -20,7 +21,7 @@
     border-radius: 50%;
     display: flex;
     color: var(--color-light);
-    font-size: 1.1rem;
+    font-size: 0.6rem;
 }
 
 

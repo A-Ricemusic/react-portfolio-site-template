@@ -1,6 +1,9 @@
-# Getting Started with Create React App
+# Getting Started 
+### make usre you have the lastest version of node js installed, and npm is working
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+in your command line run the following command:
+
+npm install package-lock.json
 
 ## Available Scripts
 

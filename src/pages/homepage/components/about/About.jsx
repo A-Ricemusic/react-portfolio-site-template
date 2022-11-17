@@ -23,40 +23,38 @@ const About = () => {
             <article className='about__card'>
               <FaAward className='about__icon'/>
               <h5>Experience</h5>
-              <p>Web development</p>
-              <p>Mortgage Analyst</p>
-              <p>Game development</p>
-              <p>Education</p>
+              <p>--1</p>
+              <p>--2</p>
+              <p>--3</p>
+              <p>--4</p>
             </article>
 
             <article className='about__card'>
               <FiUsers className='about__icon'/>
               <h5>Education</h5>
-              <p>University of Tampa</p>
-              <p>B.S in Mathematics</p>
-              <p>Minor in physics</p>
-              <p>GPA: 3.42</p>
+              <p>university ...</p>
+              <p>major</p>
+              <p>minor</p>
+              <p>GPA: ...</p>
             </article>
 
             <article className='about__card'>
               <VscFolderLibrary className='about__icon'/>
               <h5>Achievements</h5>
-              <p>Actuarial Exam P</p>
-              <p>Actuarial Exam FM</p>
-              <p>Phi Mu Epsilon</p>
-              <p>Kappa Kappa Psi</p>
+              <p>Earned ...</p>
+              <p>Certified ...</p>
+              <p>Awarded ...</p>
+              <p>Did ...</p>
             </article>
           </div>
 
           <h3>
-           Mathematics graduate with knowledge of actuarial science, software engineering, and statistical analysis. Has experience in the financial and mortgage profession, with a background in customer care and education.
+          Summary and description of skills and talents here
           </h3>
 
           <a href="#contact" className='btn btn-primary'>Let's Talk</a>
         </div>
       </div>
     </section>
-  )
-}
-
+  )};
 export default About

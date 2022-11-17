@@ -7,33 +7,32 @@ import './work.css'
 const data = [
   {
     id: 1,
-    title: 'ESPC – Tampa, FL - Programming Instructor and Game Developer',
-    subheading: 'Coding/programming academy specializing in web and game development',
-    time: '2022-present',
-    description1: 'Assisted the web development team in the creation and maintenance of the company website.',
-    description2: 'Curated curriculum to teach computer science concepts and techniques such as object oriented programming, code optimization.',
-    description3: 'Used Javascript inside of Google Sheets to automate various processes to maximize efficiency in the work environment.',
+    title: 'job title- job description 1',
+    subheading: 'description of the company',
+    time: 'time worked there ',
+    description1: 'job tasks performed 1',
+    description2: 'job tasks performed 2',
+    description3: 'job tasks performed 3',
   },
   {
     id: 2,
-    title: 'Mathnasium – Tampa, FL - Assistant Center Director',
-    subheading: 'Tutoring center and franchise  specializing in K-12 mathematics education.',
-    time: '2021-2022',
-    description1: 'Organized customer information in Excel and microsoft office to be used in various business functions.',
-    description2: 'Developed strong communication and teaching skills, and the ability to explain complex concepts in a simple way.',
-    description3: 'Worked with a marketing specialist to innovate strategies and techniques for customer acquisition.',
+    title: 'job title- job description 2',
+    subheading: 'description of the company',
+    time: 'time worked there ',
+    description1: 'job tasks performed 1',
+    description2: 'job tasks performed 2',
+    description3: 'job tasks performed 3',
   },
   {
     id: 3,
-    title: 'Mission Capital – Tampa, FL – Collateral Analyst',
-    subheading: 'Mortgage service business specializing in assignment chain verification.',
-    time: '2019-2021',
-    description1: 'Examined and verified assignment chains of mortgages for a variety of counties and states.',
-    description2: 'Prepared gap, corrective, and rescission assignments of mortgage to correct assignment chains.',
-    description3: 'Utilized Javascript and Python to organize and automate processes to cure collateral files for clients.',
+    title: 'job title- job description 3',
+    subheading: 'description of the company',
+    time: 'time worked there ',
+    description1: 'job tasks performed 1',
+    description2: 'job tasks performed 2',
+    description3: 'job tasks performed 3',
   },
   
- 
  
 ]
 
