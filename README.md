@@ -1,4 +1,4 @@
-# React Portfolio Templat
+# React Portfolio Template
 
 A customizable **React** application designed as a template for creating personal portfolio websites. This project uses Create React App as its foundation, making it easy to develop, test, and build a production-ready site to showcase your work.
 
